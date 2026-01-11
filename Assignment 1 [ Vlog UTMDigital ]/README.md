@@ -1,4 +1,5 @@
 <div align = "center">
+  
 # Assingment 1 : Video Blog (VLOG) to UTMDigital Open Day
 </div>
 
@@ -27,3 +28,10 @@
 ---
 
 ## Pictures
+---
+### UTMDigital Talk
+
+
+### Interview Session
+
+## VLOG to UTMDigital 
