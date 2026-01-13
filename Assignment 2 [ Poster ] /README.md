@@ -38,6 +38,6 @@
 ## 🖼️ Poster 
 ---
 <p align = "center">
-  <img src = "https://github.com/afrifqi/SECP1513-Technology--and--Information-System/blob/main/Assignment%202%20%5B%20Poster%20%5D%20/image/TIS%20Poster.pdf" width = "500">
+  <img src = "https://github.com/afrifqi/SECP1513-Technology--and--Information-System/blob/main/Assignment%202%20%5B%20Poster%20%5D%20/image/TIS%20ASSIGNMENT%202.jpg" width = "500">
 </p>
----
+
