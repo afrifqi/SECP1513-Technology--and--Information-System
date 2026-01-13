@@ -38,10 +38,14 @@
 |:----:|:--------:|:---------|
 
 ### 🎤 Interview Session
+<p align = "center">
+
 | <img src="https://github.com/afrifqi/SECP1513-Technology--and--Information-System/blob/main/Assignment%201%20%5B%20Vlog%20UTMDigital%20%5D/images/WhatsApp%20Image%202026-01-11%20at%203.11.55%20PM%20(1).jpeg" width = "250"> |
 |:-----:|
-|Interview session with **Nur Shaqila Binti Muhammad Syauqi**  
-UTM Digital IT Officer |
+|Interview session with **Nur Shaqila Binti Muhammad Syauqi** | 
+|UTM Digital IT Officer |
+</p>
+
 ---
 ## ✅ Conclusion
 ---
