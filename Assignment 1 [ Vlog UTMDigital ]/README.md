@@ -34,9 +34,8 @@
 ## 🖼️ Pictures
 ---
 ### Poster
-<img src="https://github.com/afrifqi/SECP1513-Technology--and--Information-System/blob/main/Assignment%201%20%5B%20Vlog%20UTMDigital%20%5D/images/utm%20digital%20open%20day%20.jpeg">
-### UTMDigital Talk
-| <img src="" width="350"> | <img src="" width="350"> | <img src=" " width="350"> 
+| <img src="https://github.com/afrifqi/SECP1513-Technology--and--Information-System/blob/main/Assignment%201%20%5B%20Vlog%20UTMDigital%20%5D/images/WhatsApp%20Image%202026-01-11%20at%203.11.54%20PM.jpeg" width="250"> | <img src="https://github.com/afrifqi/SECP1513-Technology--and--Information-System/blob/main/Assignment%201%20%5B%20Vlog%20UTMDigital%20%5D/images/WhatsApp%20Image%202026-01-11%20at%203.11.54%20PM%20(1).jpeg" width ="250">  | <img src="https://github.com/afrifqi/SECP1513-Technology--and--Information-System/blob/main/Assignment%201%20%5B%20Vlog%20UTMDigital%20%5D/images/WhatsApp%20Image%202026-01-11%20at%203.11.55%20PM.jpeg" width="250"> |
+|:----:|:--------:|:---------|
 
 ### 🎤 Interview Session
 | <img src="https://github.com/afrifqi/SECP1513-Technology--and--Information-System/blob/main/Assignment%201%20%5B%20Vlog%20UTMDigital%20%5D/images/WhatsApp%20Image%202026-01-11%20at%203.11.55%20PM%20(1).jpeg" width = "250"> |
@@ -53,5 +52,6 @@ UTM Digital IT Officer |
 <p align ="center"
   <a href="https://drive.google.com/file/d/19tWpfNwRB1Xbzgsaj7ess_LFHw-5FxNi/view?usp=drive_link">
   <img src="https://github.com/afrifqi/SECP1513-Technology--and--Information-System/blob/main/Assignment%201%20%5B%20Vlog%20UTMDigital%20%5D/images/Untitled%20design%20(1).png" alt= "Click me" width ="500">
-    </a>
 </p>
+</p>
+    
