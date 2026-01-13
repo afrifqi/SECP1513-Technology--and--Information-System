@@ -22,7 +22,7 @@
 ---
 ## ✨ Reflection 
 ---
-> 
+> The industry talk by the PPG staff was a significant learning experience for me and it helped me see how data analytics, IT infrastructure, and SAP are actually used in industrial settings. Through the session , I saw that besides having technical knowledge, it is also very important to keep learning and stay up to date with the new technologies at the workplace. The lecture inspired me to upgrade my skills and be more conscious of the industry requirements which will assist me in getting ready for my future career more efficiently.
 ---
 
 ## 🌟 Suggestion for Improvement 
@@ -32,7 +32,7 @@
 
 ## ✅ Conclusion
 ---
-> 
+> In conclusion, the industry talk organized by UTM proved to be a great learning and valuable experience that gave students a glimpse of the real working industry especially in areas like data analytics, IT infrastructure, and SAP systems. The session helped student close the gap between academic learning and industry expectations, besides it acted as a motivating factor for students to equip themselves with the technical and professional skills require by the industries . Overall , the program give such a significant impact to student and should be continue to enhance students readiness for their future careers. 
 ---
 
 ## 🖼️ Poster 
