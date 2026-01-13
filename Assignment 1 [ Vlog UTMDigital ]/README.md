@@ -1,23 +1,23 @@
 <div align = "center">
   
-# Assingment 1 : Video Blog (VLOG) to UTMDigital Open Day
+# 🏢 Assingment 1 : Video Blog (VLOG) to UTMDigital Open Day
 </div>
 
 ---
-## Team Members
+##  👥 Team Members
 1. **Afif Rifqi Bin Shaiful Rezal**
 2. **Adam Bin Baharuddin**
 3.  **Adam Fahim Mohd Foad**
 4. **Sia Jun Yang**
 
 ---
-## Title : Digitech X6 Oracle Academy 
+## 🗣️ Title : Digitech X6 Oracle Academy 
 - Date : 29 October 2025
 - Venue : Bilik Ruckus D07 , UTMDIGITAL & Online FB UTM Digital
 - Time : 10.15 A.M. - 11.15 A.M. 
 - Speaker : Mohd Asrul Muhammad Zin
 ---
-## Reflection 
+## ✨ Reflection 
 ---
 > Attending the UTM Digital Open Day was a meaningful and eye-opening experience for me. Through the talks, exhibitions, and booth visits, I gained a better understanding of how digital technologies are applied in real-world systems and campus operations.
 > 
@@ -26,29 +26,29 @@
 > By attending the booths at the UTM Digital Open Day, I gained a better understanding of types of digital technologiesand systems used by various businesses. I also acquired knowledge of the most current technology trends and innovations with an emphasis on how technology projects can be created and employed. 
 ---
 
-## Suggestion for Improvement 
+## 🌟 Suggestion for Improvement 
 ---
->
+> Provide a clear event map ( digital ) to help visitors navigate booths . Also , offer follow up material of the event or talk so participant can use it for future reference .
 ---
 
-## Pictures
+## 🖼️ Pictures
 ---
 ### Poster
 <img src="https://github.com/afrifqi/SECP1513-Technology--and--Information-System/blob/main/Assignment%201%20%5B%20Vlog%20UTMDigital%20%5D/images/utm%20digital%20open%20day%20.jpeg">
 ### UTMDigital Talk
 | <img src="" width="350"> | <img src="" width="350"> | <img src=" " width="350"> 
 
-### Interview Session
+### 🎤 Interview Session
 | <img src="https://github.com/afrifqi/SECP1513-Technology--and--Information-System/blob/main/Assignment%201%20%5B%20Vlog%20UTMDigital%20%5D/images/WhatsApp%20Image%202026-01-11%20at%203.11.55%20PM%20(1).jpeg" width = "250"> |
 |:-----:|
 |Interview session with **Nur Shaqila Binti Muhammad Syauqi**  
 UTM Digital IT Officer |
 ---
-## Conclusion
+## ✅ Conclusion
 ---
-
+> In summary, the UTM Digital Open Day was an effective and enlightening occasion that gave excellent access to digital technologies, established the industry, and mapped future career paths. Overall , the event gave us excitement and sparked our curiosity to learn more about digital technology using in our daily life.
 ---
-## VLOG to UTMDigital 
+## 📽️ VLOG to UTMDigital 
 ---
 <p align ="center"
   <a href="https://drive.google.com/file/d/19tWpfNwRB1Xbzgsaj7ess_LFHw-5FxNi/view?usp=drive_link">
