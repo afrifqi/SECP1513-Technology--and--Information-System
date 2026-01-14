@@ -7,8 +7,15 @@
 
 ## 👥 Team Members
 ---
-1. **Afif Rifqi Bin Shaiful Rezal **
-2.
+
+1. **Afif Rifqi Bin Shaiful Rezal**
+2. **Adam Bin Baharuddin**
+3. **Adam Fahim Mohd Fuad**
+4. **Ahmad Nur Shazlan Bin Bahri**
+5. **Amal Hijaz Bin Abd Wahid**
+6. **Amreish A/L Umapathy**
+7. **Sharwin Raj A/L Segar**
+
 ---
 
 ## ✨ Reflection
@@ -36,6 +43,6 @@
 
 ## 🖼️ Pictures
 ---
-| <img src="https://github.com/afrifqi/SECP1513-Technology--and--Information-System/blob/main/PC%20Assemble%20(%20Lab%20)%20/images/WhatsApp%20Image%202026-01-14%20at%2011.09.18%20AM%20(1).jpeg" width = "350" >| <img src="" width = "350" >| <img src="https://github.com/afrifqi/SECP1513-Technology--and--Information-System/blob/main/PC%20Assemble%20(%20Lab%20)%20/images/WhatsApp%20Image%202026-01-14%20at%2011.09.18%20AM.jpeg" width = "350" >|
+| <img src="https://github.com/afrifqi/SECP1513-Technology--and--Information-System/blob/main/PC%20Assemble%20(%20Lab%20)%20/images/WhatsApp%20Image%202026-01-14%20at%2011.09.18%20AM%20(1).jpeg" width = "350" >| <img src="https://github.com/afrifqi/SECP1513-Technology--and--Information-System/blob/main/PC%20Assemble%20(%20Lab%20)%20/images/WhatsApp%20Image%202026-01-14%20at%2011.09.18%20AM%20(2).jpeg" width = "350" >| <img src="https://github.com/afrifqi/SECP1513-Technology--and--Information-System/blob/main/PC%20Assemble%20(%20Lab%20)%20/images/WhatsApp%20Image%202026-01-14%20at%2011.09.18%20AM.jpeg" width = "350" >|
 |:--------:|:---------:|:-----------:|
 
