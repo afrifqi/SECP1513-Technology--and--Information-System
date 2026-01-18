@@ -26,7 +26,7 @@
 ## 🖼️ Pictures
 ---
 ### Poster
-| <img src="" width="250"> | <img src="" width ="250">  | <img src="" width="250"> |
+| <img src="https://github.com/afrifqi/SECP1513-Technology--and--Information-System/blob/main/Project%20Design%20Thinking%20/images/WhatsApp%20Image%202026-01-09%20at%203.42.06%20PM.jpeg" width="250"> | <img src="https://github.com/afrifqi/SECP1513-Technology--and--Information-System/blob/main/Project%20Design%20Thinking%20/images/WhatsApp%20Image%202026-01-18%20at%2011.59.26%20AM.jpeg" width ="250">  | <img src="https://github.com/afrifqi/SECP1513-Technology--and--Information-System/blob/main/Project%20Design%20Thinking%20/images/WhatsApp%20Image%202026-01-19%20at%203.59.14%20AM.jpeg" width="250"> |
 |:----:|:--------:|:---------|
 
 
