@@ -38,8 +38,8 @@
 ## 📽️ Design Thinking Video
 ---
 <p align ="center">
-  <a href="">
-  <img src="" alt= "Click me" width ="500">
+  <a href="https://drive.google.com/file/d/1Z3g3_2Vekg2EhhjFwM8gqHJ_Uh9frdCq/view">
+  <img src="https://github.com/afrifqi/SECP1513-Technology--and--Information-System/blob/main/Project%20Design%20Thinking%20/images/Untitled%20design%20(1).png" alt= "Click me" width ="500">
 </a>
 </p>
     
