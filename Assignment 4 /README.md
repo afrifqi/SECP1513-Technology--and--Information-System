@@ -35,7 +35,7 @@
 ---
 > In conclusion , both the career talks from Clarity Techworks and AirAsia demonstrate that ICT is vital in driving innovation, efficiency, and digital transformation across industries. Whether operating under Fintech, Blockchain, or Travel & Digital Services, ICT professionals construct systems that not only connect people but also Businesses with Technology.
 
-The talks really reminded me that success in ICT requires technical skills, adaptability, communication, discipline, and continuous learning. Overall, these sessions inspired me to take my studies more seriously, build practical skills, and prepare myself for a responsible and impactful future in the ICT field.
+> The talks really reminded me that success in ICT requires technical skills, adaptability, communication, discipline, and continuous learning. Overall, these sessions inspired me to take my studies more seriously, build practical skills, and prepare myself for a responsible and impactful future in the ICT field.
 
 ---
 
