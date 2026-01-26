@@ -14,7 +14,7 @@
 4. **Sia Jun Yang**
 
 ---
-## 🗣️ Title : Digitech X6 Oracle Academy 
+## 🗣️ Title : DATA ANALYTICS , INFRASTRUCTURRE  & SAP
 - Date : 20 November 2025
 - Venue : Online
 - Time : 2.00 P.M.
