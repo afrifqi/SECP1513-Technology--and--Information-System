@@ -1,4 +1,4 @@
-# 🏢 Assingment 2 : Industry Talk (CLARITY TECHWORKS SDN BHD & AIR ASIA)
+# 🏢 Assingment 4 Poster : Industry Talk (CLARITY TECHWORKS SDN BHD & AIR ASIA)
 </div>
 
 ---
@@ -10,9 +10,7 @@
 
 ---
 ## 🗣️ Title : CLARITY TECHWORKS SDN BHD & AIR ASIA
-- Date : 20 November 2025
-- Venue : Online
-- Time : 2.00 P.M.
+- Venue : Online Webex
 ---
 ## ✨ Reflection 
 ---
