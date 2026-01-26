@@ -1,4 +1,4 @@
-# 🏢 Assingment 2 : Industry Talk (
+# 🏢 Assingment 2 : Industry Talk (CLARITY TECHWORKS SDN BHD & AIR ASIA)
 </div>
 
 ---
@@ -9,11 +9,10 @@
 4. **Sia Jun Yang**
 
 ---
-## 🗣️ Title : Digitech X6 Oracle Academy 
+## 🗣️ Title : CLARITY TECHWORKS SDN BHD & AIR ASIA
 - Date : 20 November 2025
 - Venue : Online
 - Time : 2.00 P.M.
-- Speaker : Ai Ling Ooi , Derrick Tan Horng Shi , Vijaykumar Dhandapani and Patrick Thong
 ---
 ## ✨ Reflection 
 ---
