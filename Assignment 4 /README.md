@@ -42,5 +42,9 @@
 ## 🖼️ Poster 
 ---
 <p align = "center">
-  <img src = "" width = "500">
+  <img src = "https://github.com/afrifqi/SECP1513-Technology--and--Information-System/blob/main/Assignment%204%20/images/_CLARITY%20TECHWORKS%20SDN%20BHD.pdf" width = "500">
+</p>
+
+<p align = "center">
+  <img src = "https://github.com/afrifqi/SECP1513-Technology--and--Information-System/blob/main/Assignment%204%20/images/AIR%20ASIA.pdf" width = "500">
 </p>
